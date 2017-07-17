@@ -120,7 +120,7 @@ public class Recognizer {
 
     private boolean profanityFilter = true;
     private String language = null;
-    private String apikey = null;
+    private String apikey = AIzaSyBspdYHQJIgqEtxepEeL3PgduiAtTtIR9Q;
     
     /**
      * Constructor
